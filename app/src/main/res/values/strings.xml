@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToTheMoon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">WELCOME</string>
+    <string name="description">this app for suitmedia mobile developer test</string>
+    <string name="hintname">Name</string>
+    <string name="hintpass">Password</string>
+    <string name="copyright">Copyright @ 2020 Suitmedia All Rights Reserved</string>
+    <string name="title2">Hello,</string>
+    <string name="name">Barrel</string>
+    <string name="btn1">Choose Event</string>
+    <string name="btn2">Choose Guest</string>
+    <string name="titletext">Card Title</string>
+    <string name="descriptiontext">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+</resources>
